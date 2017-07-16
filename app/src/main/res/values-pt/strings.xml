@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Armando Jimenez on 7/15/17 12:35 PM
+  ~ Copyright (c) 2017. All rights reserved.
+  ~
+  ~ Last modified 7/15/17 12:35 PM
+  ~
+  ~
+  -->
+
+<resources>
+    <string name="app_name">Bolhas por AJ</string>
+    <string name="conteo">"Contagem: "</string>
+</resources>
